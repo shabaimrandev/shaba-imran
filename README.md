@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imran
-- 👀 I’m a Front-end Developer interested in creating responsive and user friendly websites. I aim to create apps for good Search Engine Optimization.
+- 👀 I’m a Front-end Developer based in Abuja, Nigeria. I am dedicated in creating responsive and user friendly websites for good Search Engine Optimization.
 - 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on projects that i find interest in.
 - 📫 You can reach me via the following platforms: <br>
