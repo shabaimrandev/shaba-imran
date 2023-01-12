@@ -2,7 +2,7 @@
 # My GitHub profile
 > 👋 Hi, I’m Imran
 > 
-> 👀 I’m a Front-end Developer based in Abuja, Nigeria. I am dedicated to creating responsive and user friendly websites for good Search Engine Optimization.
+> 👀 I’m a Front-end Developer based in Abuja, Nigeria. I am committed to building user-friendly, responsive websites for effective search engine optimization.
 > 
 > 💞️ I’m looking to collaborate on projects that i find interest in.
 > 
