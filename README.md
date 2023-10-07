@@ -6,6 +6,8 @@
 > 
 > 📫 You can reach me via the following platforms:
 > 
+>> [Twitter](https://twitter.com/shaba_imran)
+>>
 >> [Instagram](https://instagram.com/shaba_imran2023?igshid=NTc4MTIwNjQ2YQ==)
 >>
 >> [Gmail](mailto:imranusmanshaba@gmail.com)
