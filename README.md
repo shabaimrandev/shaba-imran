@@ -2,7 +2,7 @@
 # My GitHub profile
 > 👋 Hi, I’m Imran
 > 
-> 👀 Software developer. Proficient in HTML, CSS, and JavaScript, with experience using popular front-end frameworks such as React. I'm a creative and detail-oriented coder who takes great satisfaction in maintainable code. Additionally, I am conversant with current web development practices and tools like npm and Git.
+> 👀 Software developer. Proficient in HTML, CSS, and JavaScript, with experience using popular frameworks such as React and Laravel. I'm a creative and detail-oriented coder who takes great satisfaction in maintainable code. Additionally, I am conversant with contemporary software engineering tools and workflows, with experience using npm and Git for project management and version control.
 > 
 > 📫 You can reach me via the following platforms:
 > 
